@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cfd3847f358e489478d4663e095c9154
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _explosionFXPrefab: {fileID: 7497727987845249277, guid: dee7cd21772ec0d47844efbe155c484b,
+      type: 3}
+  - _trailFXPrefab: {fileID: 1369760377191809185, guid: 7af7b918c999846429f326b69ea19137,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

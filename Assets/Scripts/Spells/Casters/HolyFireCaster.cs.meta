@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a52b6c330a65894ba761c9dd73cdc15
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _indicatorPrefab: {fileID: 122773880289673391, guid: 6ec494420b6f93d4c82b5acbb676f686,
+      type: 3}
+  - _holyFirePrefab: {fileID: 3811617786615702265, guid: f64673c4de3b5ad499eff63cccc0d1aa,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
